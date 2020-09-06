@@ -13,28 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Martin White
-author: Dr Martin T White
+title: TFRC Poster Competition
+author: Thermo-Fluids Research Centre, City, University of London
 email: martin.white@city.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr Martin White is a researcher in the field of novel thermal power systems for power generation from low-temperature heat sources.
+  Thermo-Fluids Research Centre Poster Competition - September 2020
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: UA-142764300-1
-
 linkedin_username: martin-t-white
-github_username: martintwhite
-twitter_username: MartinTWhite
 
-show_excerpts: true
+show_excerpts: false
 
 minima:
   social_links:
     linkedin: martin-t-white
-    github:  martintwhite
-    twitter: MartinTWhite
-    rss: rss
 
 # Build settings
 markdown: kramdown

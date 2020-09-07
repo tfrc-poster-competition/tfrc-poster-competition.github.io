@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Salma Salah"
+title:  "Konstantinos Kolovos"
 date:   2020-09-07 00:00:00 +0000
 ---
 <figure>
-    <figcaption>Listen to Salma's audio description:</figcaption>
+    <figcaption>Listen to Konstantinos' audio description:</figcaption>
     <audio
         controls
-        src="/assets/audio/SalmaSalah.mp4">
+        src="/assets/audio/KonstantinosKolovos.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -15,7 +15,7 @@ date:   2020-09-07 00:00:00 +0000
 
 <p></p>
 <div style="text-align:center">
-<embed src="/assets/posters/SalmaSalah.pdf" width="100%" height="1000px">
+<embed src="/assets/posters/KonstantinosKolovos.pdf" width="100%" height="1000px">
 </div>
 <p></p>
 

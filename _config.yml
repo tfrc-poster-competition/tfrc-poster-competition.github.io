@@ -21,13 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-linkedin_username: martin-t-white
+# linkedin_username: martin-t-white
 
 show_excerpts: false
 
-minima:
-  social_links:
-    linkedin: martin-t-white
+# minima:
+#  social_links:
+#    linkedin: martin-t-white
 
 # Build settings
 markdown: kramdown
@@ -37,7 +37,7 @@ plugins:
     
 collections:
   orc101:
-    output: true
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

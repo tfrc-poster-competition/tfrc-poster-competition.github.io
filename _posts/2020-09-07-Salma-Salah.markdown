@@ -5,7 +5,7 @@ date:   2020-09-07 00:00:00 +0000
 ---
 <p></p>
 <div style="text-align:center">
-<embed src="/assets/posters/Salma_Salah.pdf" width="100%">
+<embed src="/assets/posters/Salma_Salah.pdf" width="100%" height="1000px">
 </div>
 <p></p>
 

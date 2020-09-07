@@ -16,8 +16,7 @@
 title: TFRC Poster Competition
 author: TFRC, City, University of London, 2020
 email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  ""
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

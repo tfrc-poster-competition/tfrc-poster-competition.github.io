@@ -13,7 +13,7 @@ date:   2020-09-07 00:00:00 +0000
     <figcaption>Listen to Salma's audio description:</figcaption>
     <audio
         controls
-        src="/assets/posters/Salma_Salah.mp4">
+        src="/assets/audio/Salma_Salah.mp4">
             Your browser does not support the
             <code>audio</code> element.
     </audio>

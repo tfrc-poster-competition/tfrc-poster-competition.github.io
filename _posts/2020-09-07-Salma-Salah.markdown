@@ -3,12 +3,6 @@ layout: post
 title:  "Salma Salah"
 date:   2020-09-07 00:00:00 +0000
 ---
-<p></p>
-<div style="text-align:center">
-<embed src="/assets/posters/Salma_Salah.pdf" width="100%" height="1000px">
-</div>
-<p></p>
-
 <figure>
     <figcaption>Listen to Salma's audio description:</figcaption>
     <audio
@@ -18,3 +12,11 @@ date:   2020-09-07 00:00:00 +0000
             <code>audio</code> element.
     </audio>
 </figure>
+
+<p></p>
+<div style="text-align:center">
+<embed src="/assets/posters/Salma_Salah.pdf" width="100%" height="1000px">
+</div>
+<p></p>
+
+

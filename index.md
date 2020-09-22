@@ -9,4 +9,4 @@ Welcome to the page for the City, University of London Thermo-Fluids Research Ce
 
 Below is a selection of posters prepared by our PhD students detailing their latest research, which were voted on by members of the research centre and prizes were awarded for the best posters.
 
-[Check out more detailed about the Thermo-Fluids Research Centre here.](https://researchcentres.city.ac.uk/thermo-fluids)
+[Check out more details about the Thermo-Fluids Research Centre here.](https://researchcentres.city.ac.uk/thermo-fluids)

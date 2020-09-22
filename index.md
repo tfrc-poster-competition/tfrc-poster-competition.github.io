@@ -5,8 +5,8 @@
 layout: home
 ---
 
-Welcome to the page for the Thermo-Fluids Research Centre PhD Poster Competition 2020.
+Welcome to the page for the City, University of London Thermo-Fluids Research Centre PhD Poster Competition 2020.
 
-Make sure to look over all of the entries below and when you have decided on your favorites register your vote.
+Below is a selection of posters prepared by our PhD students detailing their latest research, which were voted on by members of the research centre and prizes were awarded for the best posters.
 
-[Click here to register your vote.](https://cityunilondon.eu.qualtrics.com/jfe/form/SV_7WCc6Ar1CPNkgnj)
+[Check out more detailed about the Thermo-Fluids Research Centre here.](https://researchcentres.city.ac.uk/thermo-fluids)
